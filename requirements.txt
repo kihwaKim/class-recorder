@@ -1,1 +1,8 @@
 streamlit
+streamlit
+firebase-admin
+pandas
+python-dateutil
+requests
+watchdog
+numpy
