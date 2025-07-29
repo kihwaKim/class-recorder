@@ -6,6 +6,8 @@ import uuid
 from datetime import datetime
 import os, json
 
+
+
 # Firebase 초기화 (한 번만 수행)
 if not firebase_admin._apps:
     firebase_key = json.loads(os.environ["FIREBASE_KEY"])
